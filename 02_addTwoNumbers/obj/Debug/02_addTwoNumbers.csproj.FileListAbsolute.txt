@@ -1,0 +1,6 @@
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\bin\Debug\02_addTwoNumbers.exe.config
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\bin\Debug\02_addTwoNumbers.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\bin\Debug\02_addTwoNumbers.pdb
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\obj\Debug\02_addTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\obj\Debug\02_addTwoNumbers.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\02_addTwoNumbers\obj\Debug\02_addTwoNumbers.pdb
