@@ -1,0 +1,6 @@
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\bin\Debug\01_Greeting.exe.config
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\bin\Debug\01_Greeting.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\bin\Debug\01_Greeting.pdb
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\obj\Debug\01_Greeting.csprojResolveAssemblyReference.cache
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\obj\Debug\01_Greeting.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_Greeting\obj\Debug\01_Greeting.pdb
