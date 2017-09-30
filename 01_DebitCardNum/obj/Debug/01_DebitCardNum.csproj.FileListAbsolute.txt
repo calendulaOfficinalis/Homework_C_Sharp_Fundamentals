@@ -1,0 +1,6 @@
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\bin\Debug\01_DebitCardNum.exe.config
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\bin\Debug\01_DebitCardNum.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\bin\Debug\01_DebitCardNum.pdb
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\obj\Debug\01_DebitCardNum.csprojResolveAssemblyReference.cache
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\obj\Debug\01_DebitCardNum.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\01_DebitCardNum\obj\Debug\01_DebitCardNum.pdb
