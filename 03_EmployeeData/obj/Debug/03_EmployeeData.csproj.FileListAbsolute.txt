@@ -1,0 +1,6 @@
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\bin\Debug\03_EmployeeData.exe.config
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\bin\Debug\03_EmployeeData.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\bin\Debug\03_EmployeeData.pdb
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\obj\Debug\03_EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\obj\Debug\03_EmployeeData.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\03_EmployeeData\obj\Debug\03_EmployeeData.pdb
