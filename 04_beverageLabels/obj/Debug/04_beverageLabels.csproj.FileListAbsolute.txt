@@ -1,0 +1,6 @@
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\bin\Debug\04_beverageLabels.exe.config
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\bin\Debug\04_beverageLabels.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\bin\Debug\04_beverageLabels.pdb
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\obj\Debug\04_beverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\obj\Debug\04_beverageLabels.exe
+C:\Users\NevenaZaharieva\Documents\Visual Studio 2015\Projects\intro_C_sept_2017\04_beverageLabels\obj\Debug\04_beverageLabels.pdb
